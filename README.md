@@ -14,11 +14,17 @@ Results can easily be replicated using the playground offered by openai at https
 The following settings should be used: 
 
 Mode: Chat
+
 Model: gpt-4
+
 Temperature: 0.125
+
 Maximum length: 2048
+
 Top P: 1
+
 Frequency Penalty: 0
+
 Presence Penalty: 0 
 
 1. Copy the prompt that you wish to use into using a "USER" message. 
