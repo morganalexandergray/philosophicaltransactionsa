@@ -1,0 +1,134 @@
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over. 
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they're using drugs such as powder on a face, needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills),.
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+Along with a label, you should also provide a rationale for assigning a label. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+Label all of these 59 sentences: 
+Label: 
+Rationale: 
+
+Sentence 1: Case Name:  'The People of the State of New York, Respondent, v. Trevaughn Banks, Appellant', 
+Sentence 2: Citation:  '148 A.D.3d 1359',     Court Name:  'New York Supreme Court, Appellate Division', 
+Sentence 3: Decision Date YYYY-MM-DD:  '2017-03-16', 
+Sentence 4: ID No. :  12295291,     'Devine, J.
+Sentence 5: Appeal from a judgment of the County Court of Albany County (Lynch, J.), rendered December 5, 2014, convicting defendant upon his plea of guilty of the crime of attempted criminal possession of a controlled substance in the first degree.
+Sentence 6: On December 28, 2013, state troopers stopped defendant for driving a vehicle with excessively tinted windows on the New York State Thruway in the Town of Bethlehem, Albany County.
+Sentence 7: A canine sniff of the car was conducted that gave grounds for a search, after which over half a kilogram of cocaine was retrieved from the vehicle.
+Sentence 8: Defendant was arrested and charged in an indictment with criminal possession of a controlled substance in the first degree and criminal possession of a controlled substance in the third degree.
+Sentence 9: Following an unsuccessful motion to suppress the drugs, defendant pleaded guilty to attempted criminal possession of a controlled substance in the first degree and was sentenced to eight years in prison and five years of postrelease supervision.
+Sentence 10: Defendant now appeals, focusing upon the denial of his suppression motion.
+Sentence 11: We affirm.
+Sentence 12: The traffic stop was made after troopers observed the excessively tinted windows on defendant’s vehicle and, as such, was justified (see Vehicle and Traffic Law § 375 [12-a] [b] [2]; People v Williams, 132 AD3d 1155, 1156 [2015], lv denied 27 NY3d 1157 [2016]).
+Sentence 13: The limited detention that followed “ ‘must be reasonably related in scope, including its length, to the circumstances which justified the detention in the first instance,’ unless circumstances arise which furnish the police with a founded suspicion that criminal activity is afoot” (People v Kelly, 37 AD3d 866, 867 [2007], lv denied 8 NY3d 986 [2007], quoting People v Banks, 85 NY2d 558, 562 [1995], cert denied 516 US 868 [1995]; see People v Garcia, 20 NY3d 317, 322-323 [2012]).
+Sentence 14: The hearing evidence indicated that an average traffic stop lasts 15 or 20 minutes, and there is no dispute that the initial justification for the stop had dissipated before the canine sniff occurred (compare People v Banks, 85 NY2d at 562-563, with People v Rainey, 49 AD3d 1337, 1339 [2008], lv denied 10 NY3d 963 [2008]).
+Sentence 15: Accordingly, the rub is whether the troopers had a founded suspicion of criminality that justified further inquiry and delay (see People v Garcia, 20 NY3d at 322; People v Banks, 85 NY2d at 562).
+Sentence 16: County Court heard testimony at the suppression hearing from both troopers involved in the traffic stop of defendant and found them credible, with the account given by State Trooper David Jimenez the most pertinent here.
+Sentence 17: Defendant gave Jimenez his license, registration and proof of insurance, stating that he had been browsing at outlet stores downstate and was returning home to Albany County.
+Sentence 18: The check of defendant’s documentation that followed disclosed that he was on parole.
+Sentence 19: Defendant’s status as a parolee did not constitute a “surrender [of] his constitutional rights against unreasonable searches and seizures” (People v Huntley, 43 NY2d 175, 181 [1977]; see People v Porter, 101 AD3d 44, 47 [2012], lv denied 20 NY3d 1064 [2013]).
+Sentence 20: Nevertheless, it was a relevant factor that “may well be significant” in assessing the reasonableness of the troopers’ subsequent conduct (People v Huntley, 43 NY2d at 181; see People v Driscoll, 101 AD3d 1466, 1467 [2012]).
+Sentence 21: Jimenez testified as to how defendant’s parole status, while not the cause of the canine sniff, played a major role in how the stop evolved after its inception.
+Sentence 22: Jimenez understood from his prior experience that a parolee stopped for a traffic offense must immediately alert the officer to his or her status.
+Sentence 23: Jimenez also knew from his interaction with other law enforcement officials that a parolee supervised in Albany County was not permitted to travel beyond an adjoining county without a written permission slip from his or her parole officer.
+Sentence 24: Defendant had not told Jimenez of his parole status, then admitted that he did not have permission from his parole officer to travel to the outlet stores and had not asked for it.
+Sentence 25: This exchange occurred within the first 10 minutes of when the stop was made and, given the indications that defendant may have violated one or more conditions of his parole (see 9 NYCRR 8003.2 [c]), Jimenez properly sought to contact defendant’s parole officer in order to clarify the situation (see People v Harris, 186 AD2d 148, 148 [1992]).
+Sentence 26: The contact information for the parole officer listed in the police cruiser’s computer was inaccurate, thwarting the efforts of Jimenez to call the parole officer and prompting him to ask defendant for the correct information.
+Sentence 27: Defendant gave his parole officer’s name but not a phone number, claiming that his cell phone was broken and would not turn on.
+Sentence 28: Defendant then explained, without any prompting and contrary to his earlier account of just wanting to browse, that he had gone to the outlet stores to get his phone fixed.
+Sentence 29: Jimenez noticed that defendant was holding the cell phone battery in his hand, however, and the phone turned on with some screen damage after defendant replaced the battery.
+Sentence 30: Defendant then changed his story further when the confused troopers asked if he had gotten his phone fixed or not, relating first that he had ordered a replacement phone before eventually admitting that he had not ordered anything.
+Sentence 31: The troopers, considering this disingenuous and avoidable exchange in light of defendant’s parole status and his nervousness throughout the traffic stop, notified defendant that a canine sniff would be conducted and summoned the canine unit.
+Sentence 32: The troopers did so about 30 minutes into the traffic stop and the canine officer arrived about 20 minutes later, with the canine sniff occurring soon after.
+Sentence 33: The prolonged diet of inconsistencies and lies provided by defendant about his travels, when coupled with his parole situation and his nervous demeanor throughout the encounter, combined to give the officers a “founded suspicion of criminality”
+Sentence 34: (People v Kenon, 291 AD2d 246, 247 [2002], lv denied 98 NY2d 652 [2002]; see People v Whalen, 101 AD3d 1167, 1168 [2012], lv denied 20 NY3d 1105 [2013]; People v Tejeda, 217 AD2d 932, 932-933 [1995], lv denied 87 NY2d 908 [1995]).
+Sentence 35: This founded suspicion justified both the extension of the stop after its initial justification had been exhausted and the exterior canine sniff that followed (see People v Devone, 15 NY3d 106, 113-114 [2010]; see also United States v Moore, 795 F3d 1224, 1230-1231 [10th Cir 2015]; United States v Brigham, 382 F3d 500, 510-511 [5th Cir 2004]).
+Sentence 36: The dog alerted during the sniff and defendant’s contention regarding the reliability of that alert, an issue that was not advanced before County Court, is unpreserved for our review (see CPL 470.05 [2]; People v Neal, 133 AD3d 920, 921 [2015], lv denied 26 NY3d 1110 [2016]).
+Sentence 37: The alert gave the troopers probable cause to search the vehicle and recover the bookbag from the back seat that contained cocaine (see People v Boler, 106 AD3d 1119, 1122 [2013]; People v Abdur-Rashid, 64 AD3d 1087, 1089 [2009], affd 15 NY3d 106 [2010]).
+Sentence 38: Thus, County Court properly denied the motion to suppress the cocaine.
+Sentence 39: Rose and Mulvey, JJ., concur.
+Sentence 40: . Jimenez did not attempt to access any information in the cell phone, nor did he demand that defendant do so.
+Sentence 41: . Inasmuch as a founded suspicion existed to justify the canine sniff, we need not reach the issue of whether defendant also consented to the sniff.', 
+Sentence 42: Dissenting/Concuring:  'Garry, J.R    (dissenting).
+Sentence 43: We respectfully dissent.
+Sentence 44: At the outset, it bears noting that defendant was ultimately detained by the state troopers for roughly one half hour before the canine officer was requested.
+Sentence 45: We fully agree with the majority that the initial traffic stop was valid, and that the trooper was permitted to contact defendant’s parole officer and ask defendant for this contact information.
+Sentence 46: We dissent because defendant’s parole status and his response to the request for his parole officer’s phone number did not give rise to a founded suspicion of criminality, and there was no adequate basis stated in the troopers’ testimony to justify the further interrogation, delay at the roadside or the canine sniff, all of which occurred after the initial justification for the stop had expired (see People v Garcia, 20 NY3d 317, 322 [2012]; People v Devone, 15 NY3d 106, 110 [2010]; People v Dunbar, 5 NY3d 834, 835 [2005]; People v Hollman, 79 NY2d 181, 191 [1992]; see generally People v De Bour, 40 NY2d 210, 223 [1976]).
+Sentence 47: Although the majority places significant weight on defendant’s parole status, the suspected technical violation of defendant’s parole, without more, did not indicate criminal activity (see 9 NYCRR 362.5; People ex rel. Piccarillo v New York State Bd. of Parole, 48 NY2d 76, 80 [1979]; People ex rel. Maggio v Casscles, 28 NY2d 415, 418 [1971]; compare People v Simmons, 79 AD3d 431, 432 [2010], lv denied 16 NY3d 836 [2011]).
+Sentence 48: Notably, the police computer system did not indicate any warrant of parole violation issued against defendant, and in fact displayed a warning not to “search or detain or arrest based solely on this [parole status] information.”
+Sentence 49: State Trooper David Jimenez acknowledged during his testimony that a determination of whether an individual is in violation of his or her parole is properly based upon information obtained from the parole officer, which was absent here.
+Sentence 50: We further disagree that defendant’s response to the trooper’s request for his parole officer’s phone number gave rise to a founded suspicion.
+Sentence 51: Defendant told the troopers that he could not access his parole officer’s phone number because his phone would not “turn on” — and the majority notes that he was thereafter able to turn on his phone.
+Sentence 52: However, Jimenez testified that, although the phone did turn on, half of the screen was black and was likely not operable.
+Sentence 53: Immediately thereafter, defendant explained that he went to the shopping outlet to fix his phone, in slight contrast to his original statement during the initial stop that he went there to shop.
+Sentence 54: Even taken together with his nervousness, the minimal inconsistency in these statements did not justify defendant’s prolonged detention, particularly because the statements were made only after the initial justification for the stop had been exhausted (see People v Banks, 85 NY2d 558, 562 [1995], cert denied 516 US 868 [1995]; People v Milaski, 62 NY2d 147, 156 [1984]; People v May, 52 AD3d 147, 152 [2008]).
+Sentence 55: Defendant’s subsequent statements regarding his plans to fix his broken phone, made during his continuing detention and interrogation, were clearly beyond the scope authorized by the circumstances of the initial stop (see United States v Sharpe, 470 US 675, 682 [1985]; People v Banks, 85 NY2d at 562; People v May, 52 AD3d at 151).
+Sentence 56: As the troopers’ testimony failed to demonstrate a founded suspicion of criminality once the initial justification for the stop had dissipated, they were not allowed to continue questioning defendant, and these answers — offered during what had become an illegal seizure — may not now be properly used to support the allegations (see People v Banks, 85 NY2d at 562; People v Sobotker, 43 NY2d 559, 565 [1978]; see also People v Freeman, 144 AD3d 1650, 1651 [2016]; People v Young, 258 AD2d 604, 604 [1999], lv denied 93 NY2d 903 [1999]).
+Sentence 57: Accordingly, we would reverse County Court’s order denying defendant’s suppression motion.
+Sentence 58: Clark, J., concurs.
+Sentence 59: Ordered that the judgment is affirmed.',     Dissenting/Concuring 2:  'Not Available',     Dissenting/Concuring 3:  'Not Available'
+
+
