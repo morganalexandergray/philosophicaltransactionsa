@@ -1,36 +1,30 @@
 # philosophicaltransactionsa
-This repository contains the prompts to reproduce the results in the paper titled: Empirical Legal Analysis Simplified: Reducing Complexity through Automatic Identification and Evaluation of Legally Relevant Factors.  
+This repository contains the prompts to produce the results in the paper titled: Empirical Legal Analysis Simplified: Reducing Complexity through Automatic Identification and Evaluation of Legally Relevant Factors. The paper can be cited as: 
 
-Contents: 
 
-We have uploaded prompts for each of the 30 cases that we discuss in the paper associated with this repository. 
 
-Instructions: 
-*** Dated 06/01/2023 ***
-*** NOTE: As of the day of writing these instructions, GPT-4 is still not available to all members of the public. If you wish to replicate these results you must have your own method of accessing the model. ***
+Repository Contents: 
 
-Results can easily be replicated using the playground offered by openai at https://platform.openai.com/playground. 
+We have uploaded prompts for each of the experiments described in the paper. The repository is structured: 
 
-The following settings should be used: 
+root
+  __|gpt-4
+    -- prompt.txt
+    -- ... 
+    -- prompt.txt
+  __|gpt-3.5-turbo-16k
+    -- prompt.txt
+    -- ... 
+    -- prompt.txt
+  __|gpt-4-1106-preview
+    -- prompt.txt
+    -- ... 
+    -- prompt.txt
 
-Mode: Chat
 
-Model: gpt-4
+Comments:
+*** [01/14/2023] ***
 
-Temperature: 0.125
+The parameters of the models that were used to prompt the GPT Family Models are described in the paper along with the corresponding reasoning for selecting the same. It should be noted that although we chose parameters to make the model as deterministic as possible, we have no control over the weights used by the GPT Family Models at any particular moment. Practically, the weights could be changed at any moment without our control. Upon replication results may vary. 
 
-Maximum length: 2048
 
-Top P: 1
-
-Frequency Penalty: 0
-
-Presence Penalty: 0 
-
-1. Copy the prompt that you wish to use into using a "USER" message. 
-2. Observe/Save Results.
-3. Repeat until all prompts have been examined. 
-
-Comment: 
-
-Please note that it is not guaranteed that the model will obey the prompt exactly as inteded each time.  Thus, further prompting or trying the same prompt again may be necessary to correct the behavior.  
