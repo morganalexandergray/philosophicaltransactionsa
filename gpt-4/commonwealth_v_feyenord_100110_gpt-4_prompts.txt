@@ -1,0 +1,1071 @@
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: Case Name:  'Commonwealth vs. Kenton W. Feyenord', 
+Sentence 2: Citation:  '445 Mass. 72',     Court Name:  'Massachusetts Supreme Judicial Court', 
+Sentence 3: Decision Date YYYY-MM-DD:  '2005-09-02', 
+Sentence 4: ID No. :  2823493,     'Cordy, J.
+Sentence 5: A jury convicted the defendant, Kenton W. Feyenord, of trafficking between one hundred and 200 grams of cocaine in violation of G. L. c. 94C, § 32E (b) (3).
+Sentence 6: A divided panel of the Appeals Court affirmed the conviction.
+Sentence 7: Commonwealth v. Feyenord, 62 Mass. App. Ct. 200 (2004).
+Sentence 8: We granted further appellate review, limited to consideration of two issues: the denial of Feyenord’s motion to suppress cocaine found by the police in the vehicle he was driving; and the sufficiency of the evidence.
+Sentence 9: We conclude that the exterior sniff of a properly stopped motor vehicle, by a dog trained in drug detection, is not a search within the meaning of the Massachusetts Declaration of Rights.
+Sentence 10: We also conclude that Feyenord’s extended detention, after his motor vehicle was stopped for a traffic violation, for the purpose of summoning a canine unit, was reasonable and proportional to the unfolding circumstances that suggested his involvement in criminal activity beyond the violation for which he was initially detained.
+Sentence 11: Consequently, Feyenord’s motion to suppress was properly denied.
+Sentence 12: We finally conclude that the evidence at trial was sufficient to support the jury’s verdict and affirm the conviction.
+Sentence 13: Motion to suppress.
+Sentence 14: We accept the motion judge’s findings of fact and the undisputed evidence consistent with those findings adduced at the hearing on Feyenord’s motion to suppress.
+Sentence 15: See Commonwealth v. Colon-Cruz, 408 Mass. 533, 538 (1990).
+Sentence 16: On May 4, 2000, at approximately 5:45 p.m., State Trooper William Pinkes was traveling on Route 395 in Auburn when he noticed a vehicle traveling behind him with one headlight out.
+Sentence 17: The weather did not require the use of headlights, and it was daylight.
+Sentence 18: After Pinkes allowed the vehicle to pass his marked police cruiser, he activated the cruiser’s blue lights, and the driver pulled over.
+Sentence 19: Inside were Feyenord and a passenger.
+Sentence 20: Pinkes approached the vehicle and asked Feyenord for his driver’s license and automobile registration.
+Sentence 21: Feyenord was visibly nervous, and his hands were shaking.
+Sentence 22: He was unable to produce a license but did hand Pinkes a Massachusetts registration that was apparently valid but not in his name.
+Sentence 23: Pinkes asked the pas senger for identification, and the passenger produced a photographic identification card from the country of Jamaica that identified him as a Jamaican national named Junior Cox. When Feyenord did not provide an intelligible response to Pinkes’s request for his name, Pinkes ordered him out of the vehicle.
+Sentence 24: Cox remained in the passenger seat.
+Sentence 25: Having separated Feyenord from Cox, Pinkes went back and forth between them to ask basic questions about their identities and destination.
+Sentence 26: Standing outside the vehicle, Feyenord told Pinkes that his name was Kadari Bowen and his birthday was June 6, 1978.
+Sentence 27: When asked his age, however, Feyenord struggled with the answer, providing one age and then another.
+Sentence 28: Feyenord told Pinkes that Cox was his brother-in-law and the father of his sister’s child, and that he had known Cox for twelve years.
+Sentence 29: Feyenord also said that he had a New York driver’s license and he and Cox were traveling to visit a friend in Putnam, Connecticut, for whom he could produce neither an address nor a telephone number.
+Sentence 30: In contrast, Cox, still seated in the vehicle, told Pinkes that he had known Feyenord for two to three years, knew him only as “Pat,” did not know his last name, and was not acquainted with any members of his family.
+Sentence 31: Cox also said that they were headed to Brooklyn, New York.
+Sentence 32: These prehminaries lasted between five and ten minutes.
+Sentence 33: At this point, Pinkes ordered Feyenord to sit in the back seat of the cruiser (unhandcuffed), telling him that he was not under arrest but was not free to leave.
+Sentence 34: Pinkes then radioed for assistance from a canine officer, State Trooper James Devlin, who arrived at the scene within fifteen to twenty minutes with a drug-sniffing dog.
+Sentence 35: Devlin proceeded to direct the dog around the vehicle.
+Sentence 36: The dog displayed a heightened interest in an area near the left rear of the vehicle’s trunk.
+Sentence 37: The officers proceeded to open the trunk and place the dog inside.
+Sentence 38: The dog again became excited in the area of the trunk near the left taillight.
+Sentence 39: Pinkes then searched the trunk, discovering an access panel in the area that had caused the dog’s agitation.
+Sentence 40: Once he removed this-panel, Pinkes found a gray plastic bag and, within, a digital scale and small black plastic bags each containing a quantity of a substance that appeared to be crack cocaine.
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: The traffic stop.
+Sentence 2: Feyenord first argues that the judge should have granted his motion to suppress the cocaine because the police had no justification to stop him for driving a vehicle with one inoperable headlight in daylight.
+Sentence 3: We disagree.
+Sentence 4: General Laws c. 90, § 7, provides that “[ejvery motor vehicle operated in or upon any way . . . shall be provided with . . . suitable lamps.”
+Sentence 5: We interpret this language to mean that a motor vehicle’s headlamps must be suitable at all times so that they are capable of being illuminated whenever road conditions might warrant.
+Sentence 6: Neither the time of day nor the weather conditions during the operation of the motor vehicle has any bearing on this requirement.
+Sentence 7: Although some vehicles driven during daylight may have defective headlights but escape detection by police, Feyenord was nonetheless operating his vehicle in violation of the statute.
+Sentence 8: Pinkes’s stop of Feyenord’s vehicle was lawful.
+Sentence 9: Commonwealth v. Santana, 420 Mass. 205, 207 (1995), quoting Commonwealth v. Bacon, 381 Mass. 642, 644 (1980) (“Where the police have observed a traffic violation, they are warranted in stopping a vehicle”).
+Sentence 10: The exit order.
+Sentence 11: Feyenord next argues that the judge should have granted his motion to suppress because Pinkes ordered him to leave the vehicle without a reasonable suspicion of danger.
+Sentence 12: We conclude that the exit order was proper.
+Sentence 13: Under art. 14 of the Declaration of Rights of the Massachusetts Constitution, “a police officer must, at least, have a reasonable suspicion of danger before compelling a driver to leave his motor vehicle.”
+Sentence 14: Commonwealth v. Gonsalves, 429 Mass. 658, 662 (1999).
+Sentence 15: However, “[wjhile a mere hunch is not enough ... it does not take much for a police officer to establish a reasonable basis to justify an exit order or search based on safety concerns, and, if the basis is there, a court will uphold the order.”
+Sentence 16: Id. at 664.
+Sentence 17: Here, Feyenord could not produce his driver’s license, and Pinkes had been unable to ascertain his identity.
+Sentence 18: Commonwealth v. Santana, supra at 213-214 n.8, and cases cited.
+Sentence 19: Feyenord was visibly nervous and with a companion.
+Sentence 20: Pinkes was alone.
+Sentence 21: Although the exit order was not predicated on suspicious movements or the visible presence of a weapon or possible contraband, police officers need not “gamble with their personal safety,” and the course of events after the stop sufficiently gave “rise to legitimate safety concerns” to justify the taking of the reasonable precaution of separating Feyenord from Cox and ordering Feyenord from the vehicle.
+Sentence 22: Commonwealth v. Haskell, 438 Mass. 790, 794 (2003), quoting Commonwealth v. Robbins, 407 Mass. 147, 152 (1990).
+Sentence 23: See Commonwealth v. Stampley, 437 Mass. 323, 328 (2002) (“justification for an exit order does not depend on the presence of an ‘immediate threat’ at the precise moment of the order, but rather on the safety concerns raised by the entire circumstances of the encounter”).
+Sentence 24: The order also served a valid investigatory purpose.
+Sentence 25: See Commonwealth v. Torres, 433 Mass. 669, 675 (2001) (“officer acted reasonably and within the limits of both Fourth Amendment and art. 14” because exit order was “no more intrusive than necessary . . . to effectuate both the safe conclusion to the traffic stop and the further investigation of the suspicious conduct”).
+Sentence 26: See also Commonwealth v. Riche, 50 Mass. App. Ct. 830, 833-834 (2001) (exit order justified where “tender of a registration not crediting ownership of the vehicle to any occupant raised a question whether the car was stolen,” and order served “special practical purpose” of “separating those in a stopped car from each other to frustrate interchange or collaboration among them”).
+Sentence 27: Feyenord’s claim that the fruits of the subsequent investigation should be suppressed because the exit order was unlawful is without merit.
+Sentence 28: Feyenord.’s further detention.
+Sentence 29: Feyenord next argues that his motion to suppress should have been granted because he was unreasonably detained while the police, without reasonable suspicion of drug-related activity, summoned a canine officer with a drag-sniffing dog to the scene, thereby impermissibly broadening the scope of the inquiry under art. 14 and the Fourth Amendment.
+Sentence 30: We have not had occasion to decide what type of suspicion police officers must have to escalate a general inquiry of a motorist in connection with a violation of traffic laws to an investigation that utilizes a drag-sniffing dog and justifies the prearrest detention of a motorist for such purpose.
+Sentence 31: We are, however, aided by the progeny of Terry v. Ohio, 392 U.S. 1 (1968), applicable to traffic stops and temporary detentions.
+Sentence 32: Berkemer v. McCarty, 468 U.S. 420, 439 (1984) (investigative stop of a vehicle by police is “analogous to a so-called ‘Terry stop’ ”).
+Sentence 33: In considering the temporary detention of a motorist, we begin with the “settled principle that ‘[a] justifiable threshold inquiry permits a limited restraint of the individuals involved as long as their detention is commensurate with the purpose of the stop.’ ”
+Sentence 34: Commonwealth v. Torres, 424 Mass. 153, 162 (1997), quoting Commonwealth v. Ellsworth, 41 Mass. App. Ct. 554, 557 (1996).
+Sentence 35: “In evaluating whether the police exceeded the permissible scope of a stop, the issue is one of proportion.
+Sentence 36: ‘The degree of suspicion the police reasonably harbor must be proportional to the level of intrusiveness of the police conduct.’ ”
+Sentence 37: Commonwealth v. Sinforoso, 434 Mass. 320, 323 (2001), quoting Commonwealth v. Williams, 422 Mass. 111, 116 (1996).
+Sentence 38: In order to expand a threshold inquiry of a motorist and prolong his detention, an officer must reasonably believe that there is further criminal conduct afoot, and that belief must be based on “specific and articulable facts and the specific reasonable inferences which follow from such facts in light of the officer’s experience.”
+Sentence 39: Commonwealth v. King, 389 Mass. 233, 243 (1983), quoting Commonwealth v. Silva, 366 Mass. 402, 406 (1974).
+Sentence 40: See Commonwealth v. Williams, supra at 116 (“We view the facts and circumstances as a whole in assessing the reasonableness of the officer[’s] conduct”); Commonwealth v. Fraser, 410 Mass. 541, 545 (1991) (“a combination of factors that are each innocent of themselves may, when taken together, amount to the requisite reasonable belief”); Commonwealth v. Wren, 391 Mass. 705, 707 (1984), and cases cited (“A hunch will not suffice”).
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: In this case, Pinkes conducted a threshold inquiry in which Feyenord could not produce a valid driver’s license, produced a registration in another person’s name, failed to identify himself, and appeared nervous.
+Sentence 2: As discussed above, these circumstances justified an exit order and further inquiry.
+Sentence 3: After additional questioning of Feyenord and Cox, Pinkes made several decisions: (1) he chose not to arrest Feyenord, as an out-of-State driver without a license, despite having probable cause to do so, see G. L. c. 90, §§ 10, 21; (2) he focused his investigation on the possibility that the vehicle contained drugs by summoning a canine unit; and (3) he opted to detain Feyenord in the rear of his cruiser for fifteen to twenty minutes while awaiting the arrival of the canine unit.
+Sentence 4: Feyenord contends that this set of actions constituted a violation of his Fourth Amendment and art.
+Sentence 5: 14 rights.
+Sentence 6: We disagree.
+Sentence 7: In the course of questioning Feyenord and Cox about their identities and destination, Pinkes uncovered significant inconsistencies.
+Sentence 8: Given Feyenord’s inability to produce a valid driver’s license, his nervous behavior, and these unsettling inconsistencies, Pinkes could reasonably have concluded, based on “specific and articulable facts and the specific reasonable inferences which follow from such facts,” that Feyenord and Cox were engaged in criminal activity beyond Feyenord’s non-possession of a license and the vehicle’s malfunctioning headlight.
+Sentence 9: Commonwealth v. King, supra at 243.
+Sentence 10: Pinkes was thus justified in further detaining Feyenord and Cox and expanding the scope of his investigation beyond mere motor vehicle violations.
+Sentence 11: See Commonwealth v. Wilson, 360 Mass. 557, 559-560 (1971) (defendant’s incredible claim of ignorance about provenance of water pistol in vehicle justified further inquiry); Commonwealth v. Lantigua, 38 Mass. App. Ct. 526, 528 (1995) (“Inability to produce a license or a registration reasonably gives rise to a suspicion of other offenses, such as automobile theft . . .”).
+Sentence 12: See also 4 W. R. LaFave, Search and Seizure § 9.2(f), at 334-335 (4th ed. 2004), and cases cited (“if the suspect’s explanation needs to be checked out, and in particular if his explanation is known to be false in some respects, there is reason to continue the detention somewhat longer while the investigation continues”).
+Sentence 13: Having concluded that Pinkes was entitled to extend Feyenord’s detention and expand the scope of his investigation, we must consider whether his decision to summon and employ a drug-sniffing dog required additional facts that specifically pointed to Feyenord’s involvement in drug-related activity.
+Sentence 14: See, e.g., Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 213 (2004) (Greenberg, J., dissenting) (facts must specifically arouse suspicion of narcotics trafficking in order to justify detaining the driver for the purpose of calling canine unit to conduct drug sniff), citing United States v. Perkins, 348 F.3d 965, 970-971 (11th Cir. 2003) and People v. Caballes, 207 Ill. 2d 504, 509-510 (2003), vacated, 543 U.S. 405 (2005).
+Sentence 15: See also State v. Wiegand, 645 N.W.2d 125, 137 (Minn. 2002) (“reasonable, articulable suspicion of drug-related criminal activity” necessary to conduct dog sniff after vehicle stopped for routine equipment violation).
+Sentence 16: Because we conclude that Pinkes’s course of action was reasonable, it did not impermissibly expand the scope of his investigation.
+Sentence 17: Although the facts supported the trooper’s suspicion that criminal activity was “afoot,” Terry v. Ohio, 392 U.S. 1, 30 (1968), the specific type of criminal activity that might be “afoot” was decidedly uncertain.
+Sentence 18: The facts were consistent with a number of possibilities, including automobile theft, fugitive flight, and the transportation of contraband, to list just a few.
+Sentence 19: “An expeditious collateral inquiry which might result in the suspect[’s] arrest or prompt release is not unreasonable when done to meet ‘the practical demands of effective criminal investigation and law enforcement.’ ”
+Sentence 20: Commonwealth v. Barros, 425 Mass. 572, 585 (1997), quoting Commonwealth v. Salerno, 356 Mass. 642, 646-647 (1970).
+Sentence 21: Faced with facts such as those presented here, an officer must make judgments about what resources are readily available to him that might quickly dispel or confirm his suspicion that the driver is involved in some form of criminal activity.
+Sentence 22: Such judgments should not be second guessed by courts, particularly where “the police are acting in a swiftly developing situation.”
+Sentence 23: Commonwealth v. Sinforoso, supra at 325, quoting United States v. Sharpe, 470 U.S. 675, 686 (1985).
+Sentence 24: We are disinclined to promulgate a rule artificially prioritizing or limiting the investigative methods that an officer may utilize in these circumstances.
+Sentence 25: The test is one of reasonableness, and the decision to call a canine officer and drug-sniffing dog stationed nearby to confirm or dispel the possibility of drug transportation was far from unreasonable in this case.
+Sentence 26: Equally important, the detention of Feyenord (while poten tially embarassing) was not overly prolonged or onerous in duration.
+Sentence 27: As with all investigative stops of this nature, the police had a responsibility to proceed expeditiously with their investigation.
+Sentence 28: “In assessing whether a detention is too long in duration to be justified as an investigative stop, we consider it appropriate to examine whether the police diligently pursued a means of investigation that was likely to confirm or dispel their suspicions quickly, during which time it was necessary to detain the defendant.”
+Sentence 29: United States v. Sharpe, supra.
+Sentence 30: In this case, Pinkes followed his inquiry of the occupants of the vehicle by promptly summoning the canine unit, and the total detention lasted no longer than thirty minutes.
+Sentence 31: See Commonwealth v. Sinforoso, supra at 325-326.
+Sentence 32: In sum, we conclude that “the conduct of the officerQ was proportional to the escalating suspicion that emerged over the course of the stop.”
+Sentence 33: Commonwealth v. Sinforoso, supra at 323.
+Sentence 34: Consequently, Feyenord’s detention for the purpose of summon ing a canine unit with a drug-sniffing dog was not contrary to either the Fourth Amendment or art. 14.
+Sentence 35: The dog sniff of the vehicle.
+Sentence 36: Finally, Feyenord argues that the motion to suppress was improperly denied because the use of the dog to ascertain the presence of drugs in the vehicle was an unreasonable “search” contrary to the Fourth Amendment and art. 14.
+Sentence 37: Feyenord’s Fourth Amendment argument is foreclosed by decisions of the Supreme Court, including Illinois v. Caballes, 543 U.S. 405, 410 (2005) (“dog sniff conducted during a concededly lawful traffic stop that reveals no information other than the location of a substance that no individual has a right to possess does not violate the Fourth Amendment”), and Indianapolis v. Edmond, 531 U.S. 32, 40 (2000) (while vehicle stop effectuates Fourth Amendment seizure, use of narcotics-detection dog around vehicle’s exterior does not transform seizure into search).
+Sentence 38: It remains for us to consider whether such a canine sniff is a search under art. 14.
+Sentence 39: See, e.g., Commonwealth v. Gonsalves, 429 Mass. 658, 662 (1999), and cases cited (“[w]e have expressly granted . . . protections to drivers and occupants of motor vehicles under art. 14 in a variety of areas, and we have done so to guarantee protections that, in some cases, may not be recognized under the Fourth Amendment”).
+Sentence 40: “When we confront the question whether police activities amount to a search or seizure within the meaning of art. 14, we ask ‘whether the defendants’ expectation of privacy [in the circumstances] is one which society could recognize as reasonable.’ ”
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: Commonwealth v. Blood, 400 Mass. 61, 68 (1987), quoting Commonwealth v. Podgurski, 386 Mass. 385, 388 (1982).
+Sentence 2: See Commonwealth v. Montanez, 410 Mass. 290, 301 (1991).
+Sentence 3: We agree with the Appeals Court that “the dog’s sniff and resulting ‘alert’ would constitute a search only if society were prepared to say that the defendant was reasonable in his subjective expectation of privacy in the odor of cocaine emanating from his car.
+Sentence 4: We think that society is wholly unprepared and unwilling to take that step.”
+Sentence 5: Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 207-208 (2004).
+Sentence 6: Accordingly, we conclude that a dog sniff of a properly stopped vehicle is not a search under art. 14.
+Sentence 7: See Illinois v. Caballes, supra at 409; Indianapolis v. Edmond, supra at 40; Commonwealth v. Sinforoso, supra at 324, citing United States v. Place, supra at 707.
+Sentence 8: See also State v. Wiegand, 645 N.W.2d 125, 132-133 (Minn. 2002) (canine sniff of automobile not “search” under Minnesota Constitution; “we perceive no sound basis on which to reject the U.S. Supreme Court’s approach to the Fourth Amendment issue presented in this case”).
+Sentence 9: After “the dog indicated the presence of narcotics in the rear of the car, the police had probable cause to search the car.”
+Sentence 10: Commonwealth v. Sinforoso, supra at 324, citing Commonwealth v. Pinto, 45 Mass. App. Ct. 790, 793 (1998).
+Sentence 11: Consequently, the discovery and seizure of the contraband was proper and Feyenord’s motion to suppress was correctly denied.
+Sentence 12: Sufficiency of the evidence.
+Sentence 13: Feyenord argues that the judge erred in denying his motion for a required finding of not guilty, which he made at the close of the Commonwealth’s case and at the close of all the evidence, because the evidence did not demonstrate his participation in a joint venture to traffic in cocaine.
+Sentence 14: “The essential question in evaluating the denial of a motion for a required finding of not guilty is whether the evidence received, viewed in a light most favorable to the Commonwealth, is sufficient so that the jury ‘might properly draw inferences, not too remote in the ordinary course of events, or forbidden by any rule of law, and conclude upon all the established circumstances and warranted inferences that the guilt of the defendant was proved beyond a reasonable doubt.’ ”
+Sentence 15: Commonwealth v. Pope, 406 Mass. 581, 584 (1990), quoting Commonwealth v. Clary, 388 Mass. 583, 588 (1983).
+Sentence 16: “It is not essential that the inferences drawn from facts or circumstances be necessary inferences.
+Sentence 17: It is enough if the inferences drawn from the circumstances be reasonable and possible.
+Sentence 18: The weight of the evidence is for the jury.”
+Sentence 19: (Citations omitted.)
+Sentence 20: Commonwealth v. Medeiros, 354 Mass. 193, 197 (1968), cert. denied sub nom.
+Sentence 21: Bernier v. Massachusetts, 393 U.S. 1058 (1969).
+Sentence 22: State Troopers Pinkes and Devlin testified at trial, providing much the same account as offered at the hearing on Feyenord’s motion to suppress and credited by the judge in his findings on the motion.
+Sentence 23: After the troopers arrested Feyenord, they discovered $510 on his person, including twenty-five twenty dollar bills and one ten dollar bill.
+Sentence 24: A State trooper specializing in narcotics investigations testified that later testing of the substance discovered in the vehicle revealed that the bags contained 163 grams of sixty-one per cent concentration crack cocaine, the street value of which was more than $16,000.
+Sentence 25: The State trooper testified that the purity and packaging of the cocaine and the discovery of a scale with the drugs were consistent with drug dealing.
+Sentence 26: In Feyenord’s defense, a former girl friend of Feyenord’s uncle testified that Feyenord had stayed in her Worcester home the night before his arrest, after he arrived on a bus from New York City. She also testified that she gave Feyenord permission to drive her vehicle back to New York so long as he returned it the same day, but indicated that there were no drugs in the vehicle when she lent it to him.
+Sentence 27: Feyenord testified in his own defense and denied that he had any knowledge of the cocaine found in the vehicle.
+Sentence 28: He claimed that he was in Massachusetts investigating the possibility of moving here from New York.
+Sentence 29: On the day of his arrest, he borrowed the vehicle to help his friend Junior Cox, with whom he had traveled from New York City, transport numerous shopping bags back home.
+Sentence 30: Feyenord asserted that, while Cox had placed his parcels in the trunk, he had not looked in the trunk himself.
+Sentence 31: He explained that he gave a false name, the name of a cousin, to Pinkes at the traffic stop because he was wanted on an outstanding default arrest warrant from 1995, which he did not want discovered.
+Sentence 32: Feyenord also testified that the large sum of cash on his person had been wired to him for work he performed as an auto detailer while in New York City, although the defense did not further substantiate the claim.
+Sentence 33: At trial, the Commonwealth argued alternatively that Feyenord was guilty of cocaine trafficking as a principal or as a participant in a joint venture.
+Sentence 34: The jury found Feyenord guilty solely as a joint venturer.
+Sentence 35: In order to succeed on a theory of joint venture, the Commonwealth must prove that the defendant was “(1) present at the scene of the crime, (2) with knowledge that another intends to commit the crime or with intent to commit a crime, and (3) by agreement is willing and available to help the other if necessary.”
+Sentence 36: Commonwealth v. Charros, 443 Mass. 752, 758-759 (2005), quoting Commonwealth v. Bianco, 388 Mass. 358, 366, S.C., 390 Mass. 254 (1983).
+Sentence 37: We conclude that the evidence was sufficient to support the jury’s verdict.
+Sentence 38: See Commonwealth v. Charros, supra at 759; Commonwealth v. Sabetti, 411 Mass. 770, 780 (1992).
+Sentence 39: The jury could have reasonably concluded that Feyenord knew of the large quantity of drugs stored in the vehicle he was driving because Feyenord appeared nervous when approached by Pinkes and provided false, evasive, and implausible answers to police questions.
+Sentence 40: See Commonwealth v. Sinforoso, 434 Mass. 320, 328-329 (2001) (nervousness and responses to police questions that are inconsistent and implausible suggest defendant’s connection to drugs); Alicea v. Commonwealth, 410 Mass. 384, 387-388 (1991) (defendant’s agitation may support inference that he knew drugs were present).
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: In addition, Feyenord possessed a large sum of cash when arrested, in denominations consistent with his involvement with drug dealing.
+Sentence 2: See, e.g., Commonwealth v. Brzezinski, 405 Mass. 401, 410 (1989).
+Sentence 3: From this evidence, the jury could have inferred that Feyenord was at least assisting Cox with the enterprise of trafficking cocaine.
+Sentence 4: As Feyenord was driving a vehicle containing a large quantity of cocaine and the Commonwealth’s case permitted a reasonable inference that Feyenord knew of the cocaine and intended to assist Cox with trafficking it, the evidence supports the jury’s verdict of Feyenord’s guilt as a joint venturer.
+Sentence 5: We see no error in the denial of Feyenord’s motions for a required finding of not guilty.
+Sentence 6: Judgment affirmed.
+Sentence 7: Given this limitation, we do not consider the challenge by the defendant to the judge’s instructions to the jury on joint venture, which, the Appeals Court concluded, adequately explained the applicable law.
+Sentence 8: Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 201 n.2 (2004).
+Sentence 9: Feyenord makes no challenge on appeal to the judge’s findings about the circumstances surrounding the discovery of drugs in the vehicle he was driving.
+Sentence 10: The canine officer testified at the hearing on the motion to suppress that he obtained consent from Feyenord to search the vehicle with the dog immediately after the dog became agitated during the initial exterior sweep.
+Sentence 11: The judge made no finding of fact to this effect, and neither the Commonwealth nor Feyenord suggest that consent is at issue in this case.
+Sentence 12: With specific reference to “headlamps,” the statute provides that “[e]very automobile operated during the period from one half an hour after sunset to one half an hour before sunrise, and during any other period when visibility is reduced by atmospheric conditions so as to render dangerous further operation without lights being displayed, shall display at least two lighted white headlamps with at least one mounted at each side of the front of the vehicle . . . .”
+Sentence 13: G. L. c. 90, § 7.
+Sentence 14: It is important to distinguish this case from cases in which the driver of a vehicle stopped for a traffic violation produces a valid driver’s license and registration.
+Sentence 15: See, e.g., Commonwealth v. Loughlin, 385 Mass. 60, 61-62 (1982); Commonwealth v. Ferrara, 376 Mass. 502, 505 (1978).
+Sentence 16: Where an officer conducts an uneventful threshold inquiry giving rise to no further suspicion of criminal activity, he may not prolong the detention or expand the inquiry.
+Sentence 17: See Commonwealth v. Torres, 424 Mass. 153, 158-159 (1997); Commonwealth v. King, 389 Mass. 233, 243-244 (1983).
+Sentence 18: The total investigative detention of Feyenord, from the time of the stop to the sniff by the dog was between twenty-five and thirty minutes.
+Sentence 19: We do not decide, as the Supreme Court did in Illinois v. Caballes, 543 U.S. 405 (2005), whether the police may initiate a canine sniff of a vehicle stopped for a traffic violation, in the absence of any suspicion of criminal activity beyond the violation.
+Sentence 20: In that case, the Court “proceed[ed] on the assumption that the officer conducting the dog sniff had no information about respondent except that he had been stopped for speeding.”
+Sentence 21: Id. at 407.
+Sentence 22: To the extent such a tactic raises art.
+Sentence 23: 14 concerns, we need not consider them here, as Pinkes’s conduct was based on a reasonable suspicion of additional criminal activity.
+Sentence 24: In United States v. Perkins, 348 F.3d 965, 967-968 (11th Cir. 2003), a police officer stopped a motorist for a marked lanes violation, and the driver produced a valid out-of-State driver’s license and insurance information, which revealed nothing remarkable during a routine driver’s license and warrant check.
+Sentence 25: After giving the driver a warning for the traffic violation, the officer continued to detain the driver to await the arrival of a drug-sniffing dog, which subsequently discovered narcotics in the vehicle.
+Sentence 26: Id. at 968.
+Sentence 27: The case squarely falls within the category of cases discussed in note 5, supra, involving an improper detention and expanded investigation after an uneventful threshold inquiry, and its reasoning is therefore inapplicable to this case, where the officer’s initial inquiry raised reasonable suspicions of “other illegal activity beyond the traffic offense.”
+Sentence 28: United States v. Perkins, supra at 970.
+Sentence 29: It goes without saying that the driver cannot be held indefinitely until all avenues of possible inquiry have been tried and exhausted.
+Sentence 30: See United States v. Sharpe, 470 U.S. 675, 685 (1985) (“Obviously, if an investigative stop continues indefinitely, at some point it can no longer be justified as an investigative stop”); 4 W.R. LaFave, Search and Seizure § 9.2(f), at 337 (4th ed. 2004), and cases cited (“There is no general rule that the detention may continue so long as the reasonable suspicion giving rise to the stop remains, for if this were the rule some stops could be continued indefinitely”).
+Sentence 31: Given Feyenord’s lack of identification and Cox’s identification as a foreign national, Pinkes may have had few other investigative avenues to ad dress his escalating suspicions, aside from arresting Feyenord and impounding the vehicle.
+Sentence 32: Pinkes did question Feyenord about the ownership of the vehicle at some point during the stop, although it does not appear from the record that Pinkes conducted any records check with respect to Feyenord’s false name (which Pinkes likely suspected was false given his questioning of Cox) or the vehicle’s registration plate number.
+Sentence 33: The use of such investigative methods is uniformly approved by State and Federal courts but, ironically, may have the effect of expanding the scope and the duration of an investigation incident to a traffic stop far more than a canine sniff.
+Sentence 34: 4 W. R. LaFave, Search and Seizure, supra at § 9.3(c), at 378, and cases cited.
+Sentence 35: Few jurisdictions have found detentions of thirty minutes or less unreasonable.
+Sentence 36: See, e.g., United States v. Orsolini, 300 F.3d 724, 730 (6th Cir. 2002) (fifty-minute detention, thirty-five minutes of which spent awaiting drug dog, reasonable); United States v. Shareef, 100 F.3d 1491, 1501-1502 (10th Cir. 1996) (thirty-minute wait for computer check during traffic stop reasonable); United States v. McCarthy, 77 F.3d 522, 532 (1st Cir.), cert. denied, 519 U.S. 991 (1996), and cert. denied sub nom.
+Sentence 37: Hunter v. United States, 519 U.S. 1093 (1997) (seventy-five minutes reasonable where defendant gave evasive responses to official inquiries); State v. Moffatt, 450 N.W.2d 116, 118-119 (Minn. 1990) (sixty-one minute stop permissible).
+Sentence 38: Cf. United States v. Sharpe, 470 U.S. 675, 686 (1985) (declining to deem unreasonable, as matter of law, all Terry stops exceeding twenty minutes); United States v. Place, 462 U.S. 696, 699, 709 (1983) (ninety-minute stop unreasonable); People v. Cox, 202 Ill. 2d 462, 469-470 (2002), cert. denied, 539 U.S. 937 (2003) (fifteen-minute detention pending arrival of drug dog unreasonable where police stopped vehicle for rear registration plate light malfunction and summoned canine unit before speaking with driver).
+Sentence 39: The use of dogs in other settings (e.g., to sniff the body of a person or the odors emanating from private homes) is not at issue in this case, and would have to be evaluated based on whether the privacy expectation in each of those settings is one society is willing to deem reasonable.
+Sentence 40: Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 208 (2004).
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: See State v. Wiegand, 645 N.W.2d 125, 130-131 n.5 (Minn. 2002).
+Sentence 2: For example, we note the heightened protection afforded homes in our search and seizure jurisprudence.
+Sentence 3: Commonwealth v. Balicki, 436 Mass. 1, 12 n.14 (2002) (“Nowhere are expectations of privacy greater than in the home . . .”).
+Sentence 4: Commonwealth v. Blood, 400 Mass. 61, 68-70 & n.9 (1987) (expectation that conversational exchange in private home will not be invaded surreptitiously is reasonable).
+Sentence 5: Interpreting their State Constitutions, several State courts have held that the use of a drug dog to sniff the exterior of a vehicle constitutes a “search.”
+Sentence 6: See, e.g., People v. Haley, 41 P.3d 666, 672 (Colo. 2001); State v. Tackitt, 315 Mont. 59, 66 (2003); State v. Pellicci, 133 N.H. 523, 533 (1990); Commonwealth v. Rogers, 578 Pa. 127, 135 (2004).
+Sentence 7: Other State courts have concluded that such canine sniffs are not “searches” under their respective State Constitutions.
+Sentence 8: See, e.g., O’Keefe v. State, 189 Ga. App. 519, 526 (1988); State v. Wiegand, supra at 133; State v. Waldroup, 100 Ohio App. 3d 508, 514 (1995).
+Sentence 9: Regardless of the State constitutional status of canine sniffs, many State courts require an officer to have some form of reasonable suspicion before using a drug dog to sniff the exterior of a vehicle, but none requires that an officer obtain a warrant or have probable cause to believe that there is contraband in the vehicle.
+Sentence 10: See Fitzgerald v. State, 384 Md. 484, 511-512 n.14 (Ct. App. 2004), and cases cited.
+Sentence 11: The jury did not learn of Cox’s responses to Pinkes’s questions, as those responses were excluded as hearsay prior to trial.
+Sentence 12: Cox apparently posted bail after his arrest, and his whereabouts were unknown at the time of trial.
+Sentence 13: Feyenord also testified that he had been in Worcester the previous week and had driven the motor vehicle during that visit as well.
+Sentence 14: The former girl friend of Feyenord’s uncle did not corroborate this detail.
+Sentence 15: Given this result, we need not reach Feyenord’s argument that the judge erred in denying his motions for a required finding of not guilty on the theory of principal liability.', 
+Sentence 16: Dissenting/Concuring:  'Greaney, J.
+Sentence 17: (concurring).
+Sentence 18: I agree with the court that the defendant’s motion to suppress was properly denied because the police acted lawfully.
+Sentence 19: In the circumstances that occurred, when a police officer harbors a reasonable suspicion that a crime has been committed, and that suspicion escalates, based on multiple false and evasive responses, and then reasonably focuses on the possibility of drug-related criminal activity, a dog sniff around the exterior of an otherwise lawfully stopped vehicle is a permissible investigative technique.
+Sentence 20: I write separately, however, to voice my concern that it not become a routine occurrence to summon a drug sniffing dog to the scene whenever the operator, or passengers, of a vehicle that has been stopped for a minor traffic violation, appear nervous or answer an officer’s questions inconsistently.
+Sentence 21: In our democratic society, special concern must be vigilantly exercised by the courts to balance the rights of the police under the principles of Terry v. Ohio, 392 U.S. 1 (1968) (which have expanded considerably over the years since Terry was decided), with the protections afforded less powerful citizens who often feel the brunt of Terry-type stops.
+Sentence 22: Many of these citizens (some even noncitizens), because of their economic standing, will be driving vehicles with defective equipment or driving them without proper licenses or registrations.
+Sentence 23: Moreover, these vehicles will frequently be operated in areas of cities that have known drug zones (Lowell, Holyoke, Springfield, parts of Boston, to mention a few).
+Sentence 24: The police, endeavoring to stamp out drug commerce and use, will invariably be making traffic stops in these zones.
+Sentence 25: The lack of a license or proper registration or the commission of a routine traffic violation, coupled with nervousness, or even some evasion on the part of the operator or others in the vehicle, may provide a basis to continue detention under Terry principles, but should not, by themselves, provide a basis to bring in a drug-sniffing dog.
+Sentence 26: As cogently noted by Professor LaFave:
+Sentence 27: “Allowing . . . dogs to be used serves only as a positive encouragement for police to engage in pretext and subterfuge, hardly a defensible move given the common knowledge that traffic-law enforcement has been diverted from its justified objectives to serve as a means for seeking out drugs.
+Sentence 28: Allowing use of the drug dogs at all in conjunction with traffic stops can only encourage the making of stops for insignificant and technical violations on the basis of unarticulated suspicions and mere hunches or, at worst, on totally arbitrary and discriminatory bases.
+Sentence 29: Moreover, allowing use of the dogs at all adds to the process another decision, whether to summon a drug dog, that the cases indicate requires no reasonable suspicion nor, for that matter, any justification whatsoever, but that the practice indicates is also likely to be made on an arbitrary basis.”
+Sentence 30: (Footnotes omitted.)
+Sentence 31: LaFave, The “Routine Traffic Stop” From Start to Finish: Too Much “Routine,” Not Enough Fourth Amendment, 102 Mich. L. Rev. 1843, 1896 (2004).
+Sentence 32: See 4 W.R. LaFave, Search and Seizure § 9.3(f), at 400 (4th ed. 2004).
+Sentence 33: This case also provides an opportunity to speak directly to the subject of racial or ethnic profiling in the context of the use of drug sniffing dogs during traffic stops.
+Sentence 34: The majority of police officers proceed in good faith when making traffic stops.
+Sentence 35: Some officers, however, do not and proceed more on stereotypical thinking and hunches, using dubious investigative techniques that result in the harassment of racial and ethnic minorities.
+Sentence 36: In his concurring opinion in Commonwealth v. Gonsalves, 429 Mass. 658 (1999), Justice Ireland wrote of “the dangers posed by unfettered police power to order individuals out of automobiles without any justification” and of documented “widespread public concerns about police profiling, commonly referred to as ‘DWB — driving while black.’ ”
+Sentence 37: Id. at 669, 670 (Ireland, J., concurring).
+Sentence 38: The same kind of discriminatory conduct is also directed at other ethnic groups, especially Hispanics.
+Sentence 39: A motorist must never be stopped based on his or her race or ethnicity without legally sufficient cause.
+Sentence 40: Getting a traffic ticket is never a happy experience.
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: Getting a traffic ticket if you are a black or Hispanic person who has committed a minor traffic violation and then been questioned in public view by an armed police officer determined to find a basis, or extract consent, to bring in a police dog, is humiliating, painful, and unlawful.
+Sentence 2: See generally S.R. Gross, Road Work: Racial Profiling and Drug Interdiction on the Highway, 101 Mich. L. Rev. 651 (2002).
+Sentence 3: A dog sniff is not a search under the Fourth Amendment to the United States Constitution, see Illinois v. Caballes, 543 U.S. 405, 407-410 (2005); United States v. Place, 462 U.S. 696, 707 (1983), and the court correctly concludes that a dog sniff of the exterior of an automobile is likewise not a search within the meaning of art.
+Sentence 4: 14 of the Massachusetts Declaration of Rights.
+Sentence 5: See Commonwealth v. One 1985 Ford Thunderbird Auto., 416 Mass. 603, 607-609 (1993) (helicopter surveillance of backyard of private home not a search); Commonwealth v. Montanez, 410 Mass. 290, 301 (1991) (measure of expectation of privacy under art.
+Sentence 6: 14 is “(1) whether the defendant has manifested a subjective expectation of privacy in the object of the search, and (2) whether society is willing to recognize that expectation as reasonable”).
+Sentence 7: I would pursue the art.
+Sentence 8: 14 analysis a step further, however, and candidly acknowledge that the use of a dog during a traffic stop, while not a full search in the constitutional sense, is more than a de minimis intrusion into the detained individual’s privacy interests.
+Sentence 9: See Commonwealth v. Gonsalves, supra at 662-663 (art.
+Sentence 10: 14 extends protections to drivers and occupants of motor vehicles beyond those granted by Fourth Amendment and protects Massachusetts citizens from being subjected to unjustified exit orders during routine traffic stops).
+Sentence 11: I would recognize that the act of summoning a dog heightens the tension inherent in any traffic stop to a measurable degree, and that the use of a drug-sniffing dog, even around the exterior of a vehicle, sends a clear public signal, not only to the detained motorist, but to all others passing by, that a drug investigation is in progress.
+Sentence 12: See 4 W.R. LaFave, Search and Seizure, supra at § 9.3(f), at 401.
+Sentence 13: In sum, “[ijnjecting [a dog] into a routine traffic stop changes the character of the encounter between the police and the motorist.
+Sentence 14: The stop becomes broader, more adversarial, and (in at least some cases) longer.”
+Sentence 15: Illinois v. Caballes, supra at 421 (Ginsburg, J., dissenting).
+Sentence 16: Taking a broader perspective, there is something viscerally disturbing about the use of police dogs in traffic stops — something that hints at the oppressive measures used by police in societies where respect for personal freedom and privacy are devalued or nonexistent.
+Sentence 17: In my view, we should clearly delineate the permissible bounds of a routine traffic stop, beyond which police officers may not go, in order fully to protect the art.
+Sentence 18: 14 rights of all our citizens and to avoid even the appearance of having countenanced official discrimination and harassment.
+Sentence 19: A police officer conducting a traffic stop may not summon a canine officer and dog on a mere hunch or unarticulated suspicion that drugs might be discovered in the stopped vehicle.
+Sentence 20: See State v. Wiegand, 645 N.W.2d 125, 136-137 (Minn. 2002).
+Sentence 21: Nor may the officer continue to engage the vehicle’s occupants in arbitrary or dila tory questioning, thus surreptitiously enlarging the duration and scope of the stop, in the expectation that circumstances may turn up justification, or consent obtained, to initiate a dog sniff of the vehicle.
+Sentence 22: See People v. Cox, 202 Ill. 2d 462, 470-471 (2002), cert. denied, 539 U.S. 937 (2003); State v. Mitchell, 265 Kan. 238, 244-245 (1998).
+Sentence 23: Even when an officer’s decision to summon a dog is based on a justifiable suspicion of drug-related activity that arose during the course of the stop, the dog sniff and its fruits should be suppressed if tainted by the officer’s protracted detention of the vehicle’s occupants and failure promptly to terminate the stop when its original lawful objectives are accomplished.
+Sentence 24: See Commonwealth v. McCleery, 345 Mass. 151, 153-154 (1962).
+Sentence 25: The court recognizes this to be true, ante at 78 n.5, but, nonetheless, considers it significant that the defendant’s detention “was not overly prolonged or onerous in duration” and “lasted no longer than thirty minutes.”
+Sentence 26: Ante at 81.
+Sentence 27: In the usual case, thirty minutes is too long to detain a motorist, in order to effectuate a dog sniff of the vehicle, in the absence of a reasonable articulable suspicion of drug-related activity.
+Sentence 28: An officer’s conduct during a Terry-type stop of a motor vehicle must be at all times lawfully related in scope to the circumstances that justified the stop in the first place, or to unfolding circumstances as they develop.
+Sentence 29: See Terry v. Ohio, supra at 19-20.
+Sentence 30: We must ensure that, under art. 14, the use of a drug-sniffing dog in connection with a routine traffic stop remains the exception and does not become the rule.
+Sentence 31: The situation presented to the State trooper was fused with tension and not simply one in which the defendant had difficulty in producing proper documentation.
+Sentence 32: In my view, the contradictory statements given by the two men with respect to their relationship and travel destination (the defendant identified his passenger as his brother-in-law and stated that they were traveling to see a “friend” in Putnam, Connecticut, while his passenger declared that he knew the defendant only as “Pat” and asserted that their intended destination was Brooklyn, New York) raised grave concerns that virtually compelled Trooper Pinkes, who was trained and experienced in narcotics investigations, to pursue further the possibility of illegal drug activity.',     Dissenting/Concuring 2:  'Marshall, C.J.    (dissenting, with whom Ireland, J., joins).
+Sentence 33: Today the court holds that the police may use a drug-sniffing dog to make a public and targeted investigation of an automobile driver pulled over for a routine traffic violation (driving during the day time with only one working headlight), even though the police have no reason to suspect that he is involved in any illicit drug activity.
+Sentence 34: Because the scope of the canine detection in this case was neither reasonable in the circumstances nor proportional to the investigating officer’s actual suspicions, as is required by our settled jurisprudence, I respectfully dissent.
+Sentence 35: It is black letter law that, to withstand a challenge to evidence seized during an investigatory stop, the Commonwealth must show that “it was permissible to initiate” the stop and that “the scope of the seizure was justified by the situation.”
+Sentence 36: Commonwealth v. Williams, 422 Mass. 111, 116, 118 (1996), citing Terry v. Ohio, 392 U.S. 1, 19-20 (1968).
+Sentence 37: I agree with the court that, in this case, the stop was legal.
+Sentence 38: Ante at 75.
+Sentence 39: Our interpretation under art. 14 of the Massachusetts Declaration of Rights of the permissible “scope” of any ensuing investigation is equally settled.
+Sentence 40: Any broadening in the scope of the investigatory stop must be “reasonable” and “proportional” in light of the “degree of suspicion the police reasonably harbor.”
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: Commonwealth v. Williams, supra at 116, 117.
+Sentence 2: See Commonwealth v. Sinforoso, 434 Mass. 320, 323 (2001) (“In evaluating whether the police exceeded the permissible scope of a stop, the issue is one of proportion”); Commonwealth v. Gonsalves, 429 Mass. 658, 662-663, 665 (1999) (reasonableness requirement in escalation of scope of traffic stops helps prevent arbitrary or harassing police conduct).
+Sentence 3: I cannot agree with the court’s conclusion that the decision by the state trooper to summons a narcotics sniffing dog was “reasonable.”
+Sentence 4: Ante at 80.
+Sentence 5: It is uncontested in this case that the investigating state trooper had no reason to suspect that the defendant was involved in any drug activity when he ordered the canine search.
+Sentence 6: Rather, as the court candidly recognizes, the trooper had only a generalized suspicion that something might be afoot.
+Sentence 7: What that something was, was “decidedly uncertain,” and “consistent with a number of possibilities.”
+Sentence 8: Ante at 80.
+Sentence 9: There is nothing in the record to indicate that the police “reasonably focuse[d] on the possibility of drug-related criminal activity.”
+Sentence 10: Ante at 86.
+Sentence 11: A motorist’s nervousness and false responses to police questions, without more, does not permit the police to conclude that illegal narcotics activity is afoot.
+Sentence 12: In this case, as the Appeals Court noted, at the point he decided to summon a police dog trained “to detect marijuana, cocaine, hashish, and heroin,” the trooper had determined only that “something meriting further investigation was afoot” (emphasis added).
+Sentence 13: Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 203 (2004).
+Sentence 14: I conclude that the use of a drug-detection dog is not “proportional” or “justified” during a routine traffic stop unless the police have a reasonable suspicion that the detained individual is engaged in unlawful drug-related activities.
+Sentence 15: See Illinois v. Caballes, 543 U.S. 405, 418-422 (2005) (Ginsburg, J., dissenting) (use of drug-sniffing dog during traffic stop “broaden[s] the scope of the traffic-violation-related seizure” and therefore ought to require reasonable suspicion).
+Sentence 16: This is not only required, as I shall explain, by our art. 14 jurisprudence, but also is consistent with the conclusions of numerous other State courts of last resort, examining the limits imposed by their respective State Constitutions on targeted canine drug sniffing.
+Sentence 17: See, e.g., State v. Wiegand, 645 N.W.2d 125, 137 (Minn. 2002) (reasonable suspicion of drug activity required before initiation of canine sniff); State v. Pellicci, 133 N.H. 523, 534 (1990) (same); People v. Dunn, 77 N.Y.2d 19, 26 (1990), cert. denied, 501 U.S. 1219 (1991) (same); Commonwealth v. Johnston, 515 Pa. 454, 465-467 (1987) (same).
+Sentence 18: See also State v. Tackitt, 315 Mont. 59, 69-70 (2003) (“particularized suspicion” of narcotics required to initiate sniff).
+Sentence 19: A canine drug sniff conducted during the course of a traffic stop is intrusive, embarrassing, and anxiety inducing.
+Sentence 20: That “ ‘drug dogs are not lap dogs’ .
+Sentence 21: . . changes the character” of an interaction between a police officer and a private citizen, which “becomes broader, more adversarial, and (in at least some cases) longer” when the police officer insists on probing the citizen with a drug sniffing dog.
+Sentence 22: Illinois v. Caballes, supra at 421 (Ginsburg, J., dissenting), quoting United States v. Williams, 356 F.3d 1268, 1276 (10th Cir.) (McKay, J., dissenting), cert. denied, 543 U.S. 852 (2004).
+Sentence 23: See 1 W.R. LaFave, Search and Seizure § 2.2(g), at 537 (4th ed. 2004) (canine search of persons “is embarrassing, overbearing and harassing, and thus should be subject to Fourth Amendment restraints”).
+Sentence 24: Traffic stops occur in public places, and the motorist involved may often be known to others passing by.
+Sentence 25: As Justice Greaney notes, a canine search “sends a clear public signal, not only to the detained motorist, but to all others passing by, that a drug investigation is in progress.”
+Sentence 26: Ante at 89.
+Sentence 27: See 4 W.R. LaFave, Search and Seizure § 9.3(f), at 401 (4th ed. 2004).
+Sentence 28: I cannot agree with the court that detaining a motorist at the side of the road while the police use a dog to sniff his vehicle is merely “potentially embarrassing.”
+Sentence 29: Ante at 80-81.
+Sentence 30: Rather, I share Justice Greaney’s concerns that the use of drug-sniffing dogs, when used during a traffic stop, “is more than a de minimis intrusion into the detained individual’s privacy interests.”
+Sentence 31: Ante at 89.
+Sentence 32: For these reasons, the use of a narcotics detection dog is “intimidating” and “upsetting to the innocent motorist.”
+Sentence 33: Y. Kamisar, W.R. LaFave, J.H. Israel, & N.J. King, Modem Criminal Procedure 430-431 n. (11th ed. 2005), quoting 4 W.R. LaFave, supra at § 9.3(f).
+Sentence 34: No individual should be individually probed in this manner unless the police have reasonable suspicion that drug activity is afoot.* *
+Sentence 35: In my judgment, that conclusion is compelled by our art.
+Sentence 36: 14 jurisprudence.
+Sentence 37: In Commonwealth v. Gonsalves, supra at 663, we held that a police officer must have “a reasonable belief that the officer’s safety, or the safety of others, is in danger before ordering a [person] out of a motor vehicle.”
+Sentence 38: In other words, even if a police officer has a legitimate basis for extending a traffic stop (in Commonwealth v. Gonsalves, supra at 660, the police suspected some illegal activity because the defendant passenger was “extremely nervous” and “appeared to be breathing heavily”), the officer cannot order a person out of a vehicle unless the officer has a reasonable belief that removal from the vehicle is required for reasons of safety.
+Sentence 39: We explained in that case that our “rule” is rooted in art.
+Sentence 40: 14’s requirement that the police respect the privacy of motorists, avoid unnecessary delay and inconvenience in making traffic stops, id. at 663-664, and act at all times “in a reasoned way.”
+
+
+
+TASK
+In this task, we are attempting to label sentences to assess whether they contain important information.  These facts are tied to a specific legal problem which we have described below: 
+
+-START LEGAL PROBLEM EXPLANATION-
+We are interested in highway drug-interdiction. This occurs when a motorist is stopped by police for violating a traffic law and is subsequently detained based on an officer’s reasonable suspicion that the motorist is trafficking or possessing drugs.
+An example of drug interdiction: John Smith, a motorist, is driving down interstate 95 in Miami Dade County, Florida with a brake light out and an occluded license plate. Officer Brown, who has been following Mr. Smith, initiates a traffic stop due to the light and the license plate. After Mr. Smith pulls over, Officer Brown observes Mr. Smith is moving around and appears to be reaching under his seat. After approaching the vehicle, Officer Brown notices that Mr. Smith is more nervous that someone would usually be when stopped for a traffic offense. He notices that Mr. Smith is sweating, shaking, and avoiding eye contact. Mr. Smith hands Officer Brown his license and registration, and vehicle rental agreement, which shows that Mr. Smith rented the vehicle in Philadelphia, and the car is due back there in 1 day. Officer Brown notices two cellphones in the center console, 1 prepaid, and 1 iPhone; he sees numerous cans of Redbull, and McDonald’s bags strewn about the vehicle; he notices a number of air fresheners hanging from the rearview mirror; he sees that instead of placing his luggage in the trunk, Mr. Smith has kept a small amount of luggage in the rear of the vehicle. Officer Brown asks Mr. Smith where he is coming from and where he is going. Mr. Smith states that he is coming from Washington D.C. and is headed to Arkansas to see family. When Officer Smith asks why, if he was headed to Arkansas to see family, he was in Miami, Mr. Smith states that he is actually seeing his girlfriend, who he cannot name, in Miami, before heading west to Arkansas to see his family. Based on the foregoing, Officer Brown believes that Mr. Smith is actually trafficking drugs, and detains him for 20 minutes until a drug dog can complete an open air sniff of the vehicle. Upon completion of the sniff, the dog indicates that there are drugs in the trunk of the vehicle. After opening the trunk, Officer Brown seizes 5kg of cocaine from the vehicle. Mr. Smith is arrested, and subsequently charged.
+The legal question presented from these facts is whether Officer Brown had reasonable suspicion based upon articulable facts (his observations) that criminal activity was afoot. If so, then he could detain Mr. Smith for the time necessary to complete a canine sniff of the vehicle. If not, Mr. Smith’s constitutional rights have been violated due to the detention. We will be annotating cases that present the same legal problem. Although the facts (factors) of each case will be different to some degree (small or great), this is the legal problem that must be examined. There are certain kinds of facts that we are interested in identifying. Below we refer to these facts as factors.
+-END LEGAL PROBLEM EXPLANATION-
+
+-START INSTRUCTIONS-
+YOU will assess sentences to and determine whether they belong to any of the following categories based on the content of the sentence and the descriptions below: 
+
+1. Furtive Movement - Use this label if the driver or passenger in the vehicle makes a suspicious movement, such as reaching beneath a seat, or in a purse or bag, or around a waistband, or in a pocket, which is commonly an attempt to conceal contraband or a weapon.  This also includes attempting to evade custody such as taking a long time to pull the vehicle over.  Simple driving mistakes do not count under this factor.
+2. Nervous Behavior or Appearance - Use this label if the motorist appears to be nervous, has shaking hands or a heavy heartbeat, or is sweating even though the temperature is cool.  Also use this label if the the motorist behaves in a nervous way, avoids making eye contact with the officer, focuses on a bag or compartment in the car, appears to be agitated, confronts the officer, gives the officer a curt response, volunteers too much information, or behaves in an overly friendly way toward the officer. 
+3. Suspicious or Inconsistent Answers - Use this label if the driver made an answer to an officer that is evasive, nonsensical, inconsistent, contradictory, impossible, vague, incomplete, unusual, or untruthful.
+4. Motorist license or Identification - Use this label if the motorist cannot provide the officer with a license or identification or if the license is invalid, revoked, fake, the wrong color, flimsy, or in someone else’s name. 
+5. Driver Status - Use this label only if the driver of the vehicle is male, young, or not from the state in which the officer pulled the car over. 
+6. Refused Consent - Use this label if the driver refused to consent to the officer’s request to search the automobile.
+7. Legal Indications of Drug Use - Use this label if the motorist has an active arrest warrant for a drug related charge or if the motorist has been arrested for or convicted of a drug related offense in the past or if the officer knows that the motorist has abused, possessed, dealed, or trafficked in drugs in the past. 
+8. Motorist's Appearance Related to Drug Use or Sale - Use this label if driver looks like they USE DRUGS such as needle track marks, rotten teeth, scabbing, bloodshot eyes, dilated pupils, unwashed hair, dirty clothes, body odor or dirty skin or if the driver is wearing suspicious clothing, such as expensive jewelry, expensive or luxury clothing, or clothing with images of drugs (e.g., marijuana leaves).
+9. Possible Drug Route - Use this label if the driver’s route is from or to a city or area, which is known for drug trafficking or high crime rates, or if the driver stops the vehicle late at night or early in the morning in an area known for criminal activity. 
+10. Unusual Travel Plans - Use this label if the motorist appears to be headed to a location that the motorist has already passed, is traveling on a road that does not lead to the stated destination, plans a trip that is too far to drive in a reasonable time (e.g., driving from Philadelphia to Miami in a single night), claims to be driving a long round trip in a one-day rental vehicle, or has other unusual travel plans.
+11. Expensive Vehicle - Use this label if the motorist is driving a kind of vehicle associated with illicit drug use or trafficking such as a luxury or expensive vehicle, e.g., a BMW, Mercedes, Cadillac, or Range Rover.
+12. Vehicle License Plate or Registration - Use this label if the vehicle's license plate is missing, shielded from view, or from out of state, or if the license plate or vehicle registration has expired.
+13. Unusual Vehicle Ownership - Use this label if the vehicle is rented or if the vehicle is owned by someone not in the vehicle, unknown to the driver, or about whom the driver knows very little or claims to be a distant relative. 
+14. Indicia of Hard Travel - Use this label if the motorist has been driving a great distance for a long time and is attempting to make as few stops as possible, or if the vehicle contained fast-food bags, lots of trash, energy drinks or substances designed to keep the consumer awake, such as Redbull, Five-Hour Energy, or Energize Capsules. 
+15. Masking Agent - Use this label if the vehicle contained a substance or product used to mask the odor of drugs such as air fresheners (e.g., Little Trees, Febreze, Glade, etc.), scented dryer sheets or baby wipes, or strongly smelling tobacco products, cigars or cigarettes or other strong smells.
+16. Vehicle Contents Suggest Drugs - This label SHOULD NOT be used for anything found after a canine has sniffed the car. Use this label if the vehicle smells of drug use (e.g., smells of raw or burnt marijuana or of chemicals such as meth or heroin) or contains drugs in plain view, or items used to ingest or use drugs such as pipes, syringes, needles, lighters, torches, drug paraphernalia, cigarette rolling papers (e.g., Raw or ZigZag brand rolling papers), marijuana cigarettes, joints, or blunts, vials, prescription bottles, or small glass containers used to hold drugs.  This label also applies if there are large amounts of cash or large bill denominations (e.g., $100 bills).
+17. Suspicious Communications Device - Use this label if the officer observes suspicious communications devices such as multiple cell phones or a prepaid burner phone. 
+18. Suspicious Storage - Use this label if only a small amount of luggage is visible given the stated nature of the trip, if the luggage is stored in the back of the cab instead of the trunk, if the vehicle has an unusual or secret storage compartment  or a car window that will not go down.
+29. Suspicion Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer had reasonable suspicion to detain the suspect. 
+20. Suspicion Not Found - Use this label if the court deciding the case concludes, based on the facts present in the case, that the officer did not have reasonable suspicion to detain the suspect.
+21. No Factor - If none of the factors apply or the court is citing or quoting a legal rule, select this option.
+
+You are also to follow these specific rules:
+
+Typically, a sentence will describe a single factor, however, in some cases, a single sentence may include more than one factor.  If a sentence describes more than one factor, give a label for each factor in the sentence. 
+
+Here are some specific rules you should follow:
+
+1. Precepts or rules of law described by the court should not be labelled.  For example: "A police officer may extend the detention beyond the scope of a routine traffic stop if the driver consents or the officer has reasonable suspicion of criminal activity. Id. at 336."
+
+2. The data is in the form of an appellate court opinion.  Conclusions reached by a lower or a trial court should not be labelled.  Sample language would be "The district court concluded that the officer had probable cause for the search".
+
+3. The charges before the court are not to be considered Legal Indications of Drug Use.  For example: "The defendant is charged with possession with intent to distribute," should not be labeled.  However, "A record check revealed that the motorist had a conviction for drug possession" should be labelled as Legal Indication of Drug Use.
+
+4. A sentence may be from a concurring or dissenting opinion. Do not annotate concurring or dissenting opinions even if they contain sentences describing factors.
+
+5. Arguments by the parties should never be treated as a factor.  For example: "Gray argues that there was not reasonable suspicion for a prolonged detention".  Because this describes an argument, it is not a fact. Common words for argument are challenges, maintains, proffers, alleges. 
+
+6. Sentences that contain solely a legal citation should be labelled as No Factor.  For example: "United States v. Oliver, 343 U.S. 900 (2019)"
+
+7. Statements that describe a legal issue are not a factor.  For example: "The question before the court is whether the officer had reasonable suspicion to detain the motorist?"
+
+8. Officer testimony can support the finding of a factor. 
+
+You should apply a label for each sentence. Here are some examples: 
+
+1. Sentence: Officer Guthrie testified that while the above exchanges were taking place, he noticed that the driver, Arturo Tapia, seemed nervous, and that his hands were shaking.
+Label: Physical Appearance of Nervousness
+
+2. Sentence: Upon reviewing the vehicle's documentation, Trooper Conrad discovered that the vehicle belonged to an absent third party, which, in his experience, raised his suspicion that the vehicle was being used for drug trafficking.
+Label: Unusual Vehicle Ownership
+
+3. Sentence: Typically, in my training and experience, the overwhelming smell of air fresheners in a rental vehicle is consistent with trying to mask the odor of controlled substances.
+Label: Masking Agent, Unusual Vehicle Ownership
+-END INSTRUCTIONS-
+
+-START LABELLING-
+
+-EXPECTED OUTPUT-
+Sentence [Number]: [Sentence [number] contents]
+Label: [label for sentence [number]]
+
+Label the following sentences individually: 
+
+Sentence 1: Id. at 665.
+Sentence 2: If our Constitution requires a “reasonable” fear for safety to justify ordering a motorist out of an automobile during a traffic stop, surely it requires no less before a canine drug sniff can be initiated against an individual stopped for a routine traffic violation: ordering a person from an automobile typically is less intrusive than conducting a canine narcotics sniff.
+Sentence 3: A particularized “reasonable suspicion” requirement for canine drug detection during traffic stops prevents baseless harassment of citizens, without erecting any barrier to legitimate law enforcement activities.
+Sentence 4: See Commonwealth v. Gonsalves, supra at 662-664.
+Sentence 5: The targeted use of a narcotics detection dog against a particular individual stopped for a routine traffic stop is entirely distinguishable from properly conducted police efforts to ensure public safety.
+Sentence 6: The use of specially trained dogs in airports, schools, subway stations, or other such public arenas gives rise to issues not present in this case.
+Sentence 7: See, e.g., Illinois v. Caballes, supra at 424-425 (Ginsburg, J., dissenting) (distinguishing search and seizure standards involving “general interest in crime control” from those involving “more immediate threats to public safety”), and cases cited.
+Sentence 8: Reasonable canine detection can be utilized for public safety purposes without violating our carefully developed art.
+Sentence 9: 14 jurisprudence.
+Sentence 10: The court’s conclusion that canine narcotics detection is permissible in this case means necessarily that drug-sniffing dogs may be called in any time the police sense that the subject of a routine traffic stop is engaged in “some” unspecified wrongdoing.
+Sentence 11: In so holding, the court departs (without reason or explanation) from our settled jurisprudence and deprives our citizens of meaningful protection from an investigatory tactic widely recognized as intrusive and “viscerally disturbing.”
+Sentence 12: Ante at 89.1 respectfully dissent.
+Sentence 13: Significantly, the judge did not find that the State trooper had reason to suspect the defendants of illicit narcotics activity, and the Commonwealth has never made such a claim.
+Sentence 14: The record confirms that there was nothing about the actions or responses of the defendant that suggested illegal narcotics activity.
+Sentence 15: The trooper did not testify to an odor of drugs, that the defendant was weaving while driving, that his eyes were glassy, or that his speech was abnormal.
+Sentence 16: The trooper who pulled the defendant’s automobile over was in fact trained in narcotics interdiction.
+Sentence 17: He did not testify that he suspected that the defendant was engaged in any illicit drug activity when he decided to summons the narcotics-detection dog.
+Sentence 18: He testified only that, at the time he summoned the dog, he had ascertained that the defendant may have been driving without a license, that he had given a false name and appeared nervous, and that there were inconsistencies between the defendant’s responses to routine questions and the statements of the passenger in the automobile.
+Sentence 19: See Commonwealth v. Feyenord, 62 Mass. App. Ct. 200, 211 (2004) (Greenberg, J., dissenting).
+Sentence 20: The officer testified that he was “suspicious” of the defendant and the passenger, but not that he had a particularized suspicion that either of the two men possessed drugs.
+Sentence 21: See State v. Wiegand, 645 N.W.2d 125, 128-129, 137 (Minn. 2002) (no reasonable suspicion sufficient to conduct canine drug sniff where individual stopped for inoperable headlight appeared nervous, had glossy eyes, and denied consent to search car, and officer was suspicious but did not suspect that individual was under influence of drugs).
+Sentence 22: The court’s opinion pays little, if any, attention to the issue whether targeted canine narcotics detection itself broadens the scope of any investigatory stop.
+Sentence 23: Rather, the court focuses, unnecessarily in my view, on the length of the defendant’s detention at the side of the road.
+Sentence 24: It is settled that, had they completed their legitimate investigation, the police could not (without reasonable suspicion) have detained the defendant further to await the dog’s arrival.
+Sentence 25: Illinois v. Caballes, 543 U.S. 405, 408 (2005), citing People v. Cox, 202 Ill. 2d 462 (2002), cert. denied, 539 U.S. 937 (2003).
+Sentence 26: Today’s holding creates troublesome incentives because “the stopping officer is tempted to engage in stalling regarding his proper function during the stop ... in order to give the appearance that the time for the stop has not expired in the interim.”
+Sentence 27: Y. Kamisar, W.R. LaFave, J.H. Israel, & N.J. King, Modem Criminal Procedure 430-431 n. (11th ed. 2005), quoting 4 W.R. LaFave, Search and Seizure LaFave § 9.3(f) (4th ed. 2004).
+Sentence 28: Well-trained dogs often “alert” to innocent people.
+Sentence 29: Illinois v. Caballes, 543 U.S. 405, 411-412 (2005) (Sauter, J., dissenting).
+Sentence 30: In one case, school officials initiated a canine sniff of their teenage students.
+Sentence 31: The dogs “alerted” to fifty students, thirty-three of whom later were revealed to have been innocent.
+Sentence 32: A dog alerted to one junior high school girl.
+Sentence 33: She was asked to empty her pockets, which contained no drugs.
+Sentence 34: She was then strip searched, but, again, no drugs were found.
+Sentence 35: Later, it was revealed that the girl had been playing that morning with her own dog, who was in heat.
+Sentence 36: Doe v. Renfrow, 475 F. Supp. 1012 (N.D. Ind. 1979), afPd in part, 631 F.2d 91 (7th Cir. 1980), cert. denied, 451 U.S. 1022 (1981).
+Sentence 37: See 1 W.R. LaFave, Search and Seizure § 2.2(g), at 532-534 (4th ed. 2004).
+Sentence 38: Rare as such occurrences may be, they evidence the potential of canine narcotics detection to create a serious and unwarranted intrusion into a person’s life.
+Sentence 39: We reached our conclusion despite decisions of the United States Supreme Court to the contrary.
+Sentence 40: See, e.g., Pennsylvania v. Mimms, 434 U.S. 106, 111 (1977) (on routine traffic stop police officer may, without additional basis, order driver from vehicle); Maryland v. Wilson, 519 U.S. 408, 415 (1997) (same, regarding passenger).',     Dissenting/Concuring 3:  'Not Available'
+
+
+
